@@ -1,0 +1,30 @@
+.todolist p,button {
+ 
+ 
+ background-color: rgb(255, 255, 255);
+}
+
+
+
+p{
+
+    width: 30%;
+    height: 30px;
+    color: yellowgreen;
+ }
+
+.todolist
+{
+display: flex; 
+align-items: center;
+flex-direction: row;
+justify-content: center;
+}
+button{
+    height: 30px;
+}
+#delete{
+    background-color: rgb(255, 255, 255);
+    border: none;
+    height: 30px;
+}
