@@ -1,4 +1,4 @@
-import { useState } from "react"
+// import { useState } from "react"
 import Todolist from "../Component2"
 import "./todo.css" 
 const Todo = ({data,setdata,data2,SetData2}) => {
